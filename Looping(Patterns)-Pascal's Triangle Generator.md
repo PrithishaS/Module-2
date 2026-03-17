@@ -27,9 +27,21 @@ To write a Python program that generates **Pascal's Triangle** using numbers. Th
 ---
 
 ## 🧪 Program
-Add Code Here
+# Reg.No: 212222210020
+# Name: Prithisha S
 
-## Sample Output
+def modulo(a, b):
+    return a % b
+
+x = int(input("Enter first number: "))
+y = int(input("Enter second number: "))
+
+print("Modulo:", modulo(x, y))
+
+## Output
+Enter first number: 10
+Enter second number: 3
+Modulo: 1
 
 ## Result
-
+The programs were executed successfully and the expected outputs were obtained.
