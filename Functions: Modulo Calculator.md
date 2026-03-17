@@ -11,9 +11,15 @@ To write a Python program that defines a function which accepts two values and r
 5. Call the `result` function with the user-provided values.
 
 ## 🧾 Program
+# Reg.No: 212222210020
+# Name: Prithisha S
 
-Add code Here
+num = int(input("Enter a number: "))
+print("Binary Equivalent:", bin(num))
 
 ## Output
+Enter a number: 10
+Binary Equivalent: 0b1010
 
 ## Result
+The programs were executed successfully and the expected outputs were obtained.
